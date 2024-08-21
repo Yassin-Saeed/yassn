@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.narbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    position: fixed;
+    left: 0;
+    right: 0;
+    font-size:20px;
+    padding: 10px 20px;
+    text-align: center;
+    align-items: center;
+    margin: 30px 70px;
+}
+.collapse{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.narbar-nav{
+    list-style: none;
+    margin-left: 20px;
+    
+}
+a{
+    color: #fff;
+}
+span{
+    color: green;
+
+}
+
